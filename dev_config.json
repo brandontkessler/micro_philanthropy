@@ -1,0 +1,7 @@
+{
+  "SECRET_KEY": "some_secret",
+  "MAIL_USERNAME": "brandonkesslerdev@gmail.com",
+  "MAIL_PASSWORD": "atgple11",
+  "MAIL_SUBJECT_PREFIX": "[Flask Template]",
+  "MAIL_SENDER":  "Admin <noreply.brandonkesslerdev@gmail.com>"
+}
